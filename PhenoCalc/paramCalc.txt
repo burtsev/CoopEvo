@@ -1,0 +1,7 @@
+false	noMarkers
+false	universal
+false	agression
+true	high population density
+false	get average kin value
+false	calculate only average weights
+50000000	max time

@@ -1,0 +1,26 @@
+0	version# (used for random generator)
+30	 x size of the world
+30	 y size of the world
+200	 init population
+500000001	number of iterations in simulation
+100	 grass cycle (cycle of grass refreshing)
+30	 mutation rate
+50	 grass intencity(mean, %)
+5000	 maxEnergy (energy capacity of agent)
+20	 divide energy
+20	 move energy
+20	 eat energy
+10	turn energy
+5	 rest energy
+500	fight 
+1500	 grass cost (energy gain when eat grass)
+2000	 save period (frequency of saving in the file agents.txt)
+10	mutModul (/10000)
+10      markerLength
+150      marker mutation rate
+1      marker mutation intensity
+1000	max marker value 
+500000	 save genome Period 
+10000     save average genome period
+1000	 maxWeight
+20	mapScale

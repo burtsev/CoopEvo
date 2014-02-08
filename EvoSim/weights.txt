@@ -1,0 +1,16 @@
+inputs	true	true	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+actions	false	true	true	false	false	true	false	true	true
+	Rest	Eat	MoveF	TurnR	TurnL	Divide	fight
+level	0	0	0	0	0	50	0	0	z
+fNear	0	150	0	0	0	0	0	0	z
+fLeft	0	0	0	0	0	0	0	0	z
+fForw	0	0	100	0	0	0	0	0	z
+fRight	0	0	0	0	0	0	0	0	z
+aNear	0	0	0	0	0	0	0	0	0
+aLeft	0	0	0	0	0	0	0	0	0
+aForw	0	0	0	0	0	0	0	0	0
+aRight	0	0	0	0	0	0	0	0	0
+aKin	0	0	0	0	0	0	0	0	0
+energy	0	0 	0	0	0	0	0	0	0
+-energy	0	0	0	0	0	0	0	0	0
+marker	0	0	0	0	0	0	0	0	0
